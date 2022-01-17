@@ -1,4 +1,4 @@
-![alt text](https://github.com/crabada-game/crabada-auto-mining/blob/main/Untitled.png?raw=true)
+![alt text](https://github.com/crabada-game/crabada-auto-mining/blob/main/Screen.png?raw=true)
 
 Auto crabada mining bot for nft-game Crabada. Entry university project, written in C# Console. 
 

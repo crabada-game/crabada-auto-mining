@@ -1,7 +1,7 @@
 ### Guide
-# Start your first mining/looting game to get your team id.
-# Start the BOT for the rest.
-# Currently supports auto start/close game and hire crab in tarven for reinforce.
+- Start your first mining/looting game to get your team id.
+- Start the BOT for the rest.
+- Currently supports auto start/close game and hire crab in tarven for reinforce.
 ![alt text](https://github.com/crabada-game/crabada-auto-mining/blob/main/Screen.png?raw=true)
 
 Auto crabada mining bot for nft-game Crabada. Entry university project, written in C# Console. 
